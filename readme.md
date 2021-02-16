@@ -180,5 +180,5 @@ http://{ip-address-of-dashboard-node}:3000/
 
 * [View Grafana Dashboard](https://github.com/AzureIoTGBB/iot-edge-offline-dashboarding/blob/master/documentation/dashboarding-sample.md#view-the-grafana-dashboard) to see and customize the dashboard.
 * [Customize OEE Dashboards](https://github.com/AzureIoTGBB/iot-edge-offline-dashboarding/blob/master/documentation/customize-sample-oee.md)
-* [Offline Dashboards for IoT Edge main repo](https://github.com/AzureIoTGBB/iot-edge-offline-dashboarding/)
+* [Offline Dashboards for IoT Edge v1 repo](https://github.com/AzureIoTGBB/iot-edge-offline-dashboarding/)
 
